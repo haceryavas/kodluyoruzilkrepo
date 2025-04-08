@@ -5,7 +5,9 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Java Back-End Eğitiminde olu�
 
 ## Installation
 Öncelikle projeyi clonelayın.
-`git clone https://github.com/haceryavas/kodluyoruzilkrepo.git`
+```
+git clone https://github.com/haceryavas/kodluyoruzilkrepo.git
+```
 
 ## Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
